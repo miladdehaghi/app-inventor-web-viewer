@@ -13,8 +13,8 @@ body{
 }
 
 #main-container{
-    width: calc(100% - 2rem);
-    height: calc(100% - 2rem);
+    width: calc(100% - 1rem);
+    height: calc(100% - 1rem);
     border-radius: 2rem;
     background-color: #82d1f1;
 }
